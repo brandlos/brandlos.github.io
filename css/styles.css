@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body,
+main {
+  background-color: #f5f5f5;
+  color: #555548;
+  font-family: "Rubik", sans-serif;
+}
+a,
+a:hover {
+  color: #9ab100;
+  text-decoration: none;
+}
+
+.navbar-brand {
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 28px;
+}
