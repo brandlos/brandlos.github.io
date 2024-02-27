@@ -1,3 +1,7 @@
-body {
-    font-family: "JetBrains Mono", monospace;
+body, button {
+    font-family: "Agave", monospace;
+}
+
+a, a:hover {
+    text-decoration: none;
 }
